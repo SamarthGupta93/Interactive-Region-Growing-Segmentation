@@ -1,6 +1,10 @@
 # Interactive-Region-Growing-Segmentation
 This is an interactive region growing algorithm which will take in user seeds and segment the region from the image. The segmented result can be improved by adding additional seeds and guiding the algorithm
 
+<p align="center">
+  <img src="https://github.com/SamarthGupta93/Interactive-Region-Growing-Segmentation/blob/master/Brain_ct_8.png" title="Brain Tumor Segmentation">
+  <img src="https://github.com/SamarthGupta93/Interactive-Region-Growing-Segmentation/blob/master/Brain_ct_15.png" title="Brain Cerebrum Segmentation">
+</p>
 
 
 ### Region Growing algorithm 
